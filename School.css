@@ -1,0 +1,66 @@
+#hii{
+    background-color: aqua;
+    
+}
+#mainbox2{
+    display: flex;
+    column-gap: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+#box1{
+    background-color: blue;
+}
+#box2{
+    background-color: blanchedalmond;
+}
+#box3{
+    background-color: yellowgreen;
+}
+#mainbox1{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    padding-top: 10px;
+    column-gap: 10px;
+}
+#box12{
+    width: 50%;
+    height: 50%;
+}
+#box11{
+    width: 50%;
+    height: 50%;
+
+}
+#blockimg{
+    width: 100%;
+    height: 100%;
+}
+#para1{
+    color: chartreuse;
+}
+#para2{
+    color: chocolate;
+}
+#markee{
+    display: flex;
+    width: 100%;
+    height: 500px;
+    column-gap: 20px;
+    padding-top: 10Px;
+}
+#markimg1{
+    height: 100%;
+}
+#markimg2{
+    height: 100%;
+}
+#markimg3{
+    height: 100%;
+}
+/* aboutpage */
+#mainimg{
+    width: 100%;
+}
+/* login */
